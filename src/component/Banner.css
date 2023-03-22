@@ -1,0 +1,17 @@
+.banner{
+    /* margin-top: 20px; */
+    height:600px;
+    background-size:cover ;
+    background-position: center;
+}
+.banner-content{
+    padding-top: 450px;
+    margin-left: 50px;
+}
+.banner-title{
+    font-weight: 600;
+    font-size: 40px;
+}
+.banner-overview{
+    line-height: 15px;
+}
